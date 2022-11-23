@@ -42,7 +42,7 @@ switch (inkey.Key)
         Console.WriteLine($"Выберите из списка: ");
         foreach (var item in langvE)
         {
-            Console.WriteLine(item.Key[1,2,3]);
+            Console.WriteLine(item.Key[1]);
         }
         
         break;

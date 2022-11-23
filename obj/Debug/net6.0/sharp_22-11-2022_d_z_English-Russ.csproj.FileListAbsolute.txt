@@ -13,3 +13,18 @@ C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_22-11-2022_d_z_English-Russ\obj\
 C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.pdb
 C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.genruntimeconfig.cache
 C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\ref\sharp_22-11-2022_d_z_English-Russ.dll
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.dll
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\refint\sharp_22-11-2022_d_z_English-Russ.dll
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.pdb
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\bin\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.exe
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\bin\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.deps.json
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\bin\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\bin\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.dll
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\bin\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.pdb
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\sharp_22-11-2022_d_z_English-Russ.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\sharp_22-11-2022_d_z_English-Russ\obj\Debug\net6.0\ref\sharp_22-11-2022_d_z_English-Russ.dll
